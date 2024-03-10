@@ -11,10 +11,10 @@ Loom video explaining the demo is available at: https://www.loom.com/share/ed4b3
 
 Canva pitch : https://www.canva.com/design/DAF_DQAMfes/66fZMe4YDLNaywi0KU8fEA/edit?utm_content=DAF_DQAMfes&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
-Relayers used: (deployed by Flare team)
+Relayers used: (deployed by the Flare team) 
 
 COSTON_RELAY=0x2f48135AdF44c99999cA0d6d21bD49466AaD74Fd
-SEPOLIA_RELAY=0x7b4d5e9388dBdB0161186D605379dafA3dc22100
+SEPOLIA_RELAY=0x7b4d5e9388dBdB0161186D605379dafA3dc22100 
 
 Sample Execution transaction hashes from Coston to Sepolia of USDT-0:
 
@@ -31,7 +31,7 @@ Coston - 0x1698f5f1f23fe802701f1b3e310f6d0b3a82e3dd92609eba2906b49600c24741
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+As of now, two official plugins are available:
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
