@@ -26,6 +26,11 @@ Sample Execution transaction hashes from Sepolia to Coston of USDT-0:
 Sepolia - 0x486f08f9f406048cffda8faf0074164365653e1ffc90e6e658d8616041f9d409
 Coston - 0x1698f5f1f23fe802701f1b3e310f6d0b3a82e3dd92609eba2906b49600c24741
 
+Architecture:
+
+![arch flow1 (2)](https://github.com/Xavek/flaregate/assets/2352102/05a884e9-d368-49b9-979f-1ba800a340b5)
+
+![arch flow2](https://github.com/Xavek/flaregate/assets/2352102/abaacb77-f4e3-475a-a4df-ecf4494f5b26)
 
 # React + Vite
 
