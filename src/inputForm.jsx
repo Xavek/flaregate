@@ -130,7 +130,7 @@ const BridgeInputPage = ({ connectedAccount }) => {
           <option value="" disabled>
             Select a destination chain
           </option>
-          <option value="costcon">Costcon</option>
+          <option value="costcon">Coston</option>
           <option value="sepolia">Sepolia</option>
         </select>
 
