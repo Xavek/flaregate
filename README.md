@@ -9,6 +9,8 @@ The Dapp is publically usable on: https://flaregate.vercel.app
 
 Loom video explaining the demo is available at: https://www.loom.com/share/ed4b3f5b98b24c32ba76939a3e204195?sid=de81c03e-f919-4876-b3ae-27d64c5bcbfe
 
+Canva pitch : https://www.canva.com/design/DAF_DQAMfes/66fZMe4YDLNaywi0KU8fEA/edit?utm_content=DAF_DQAMfes&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 Relayers used: (deployed by Flare team)
 
 COSTON_RELAY=0x2f48135AdF44c99999cA0d6d21bD49466AaD74Fd
