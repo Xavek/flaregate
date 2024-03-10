@@ -5,7 +5,9 @@ The MVP built at **ETHOxford** from scratch demonstrates potential in a bidirect
 
 We will show end-to-end transfer of the tokens (USDT-0 to USDT-9) (bidirectionally) at 1:1 pricing as we can only use the whitelisted token on the relayer.
 
-The Dapp is publically usable on : https://flaregate.vercel.app
+The Dapp is publically usable on: https://flaregate.vercel.app
+
+Loom video explaining the demo is available at: https://www.loom.com/share/ed4b3f5b98b24c32ba76939a3e204195?sid=de81c03e-f919-4876-b3ae-27d64c5bcbfe
 
 Relayers used: (deployed by Flare team)
 
