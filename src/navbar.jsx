@@ -31,7 +31,8 @@ const NavBar = ({ onAccountChange }) => {
     <>
       <nav className="bg-black p-4 flex justify-between">
         <div className="flex items-center">
-          <span className="text-white text-xl font-bold">FlareGate</span>
+          {/* <span className="text-white text-xl font-bold">FlareGate</span> */}
+          <img src="../public/Faregate logo big_tbg.png" alt="Flaregate"/>
         </div>
         <div className="flex items-center">
           {account ? (
